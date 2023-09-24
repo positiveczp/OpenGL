@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\czp\Desktop\OpenGL_Git\OpenGL\LearnOpenGL\build\CMakeFiles\2464835c89dd7d94eecfe08cb2c18f07\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\czp\Desktop\OpenGL_Git\OpenGL\3rd\glfw-3.3.8\glfw-3.3.8\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\czp\Desktop\OpenGL_Git\OpenGL\3rd\glfw-3.3.8\glfw-3.3.8\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\czp\Desktop\OpenGL_Git\OpenGL\3rd\glfw-3.3.8\glfw-3.3.8\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\czp\Desktop\OpenGL_Git\OpenGL\LearnOpenGL\build\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F50A0C6D-49AF-3AEC-BCDB-A32B40B5549D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{876FDD7B-6090-3C70-9AE7-1B982D76FA60}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

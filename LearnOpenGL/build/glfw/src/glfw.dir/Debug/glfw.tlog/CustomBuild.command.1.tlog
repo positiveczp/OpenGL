@@ -1,0 +1,10 @@
+^C:\USERS\CZP\DESKTOP\OPENGL_GIT\OPENGL\3RD\GLFW-3.3.8\GLFW-3.3.8\SRC\CMAKELISTS.TXT
+setlocal
+D:\Cmake\bin\cmake.exe -SC:/Users/czp/Desktop/OpenGL_Git/OpenGL/LearnOpenGL -BC:/Users/czp/Desktop/OpenGL_Git/OpenGL/LearnOpenGL/build --check-stamp-file C:/Users/czp/Desktop/OpenGL_Git/OpenGL/LearnOpenGL/build/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
