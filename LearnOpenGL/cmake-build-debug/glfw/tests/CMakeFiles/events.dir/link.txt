@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\events.dir/objects.a
+D:\GCC\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\ar.exe qc CMakeFiles\events.dir/objects.a @CMakeFiles\events.dir\objects1.rsp
+D:\GCC\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\events.dir/objects.a -Wl,--no-whole-archive -o events.exe -Wl,--out-implib,libevents.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\events.dir\linkLibs.rsp

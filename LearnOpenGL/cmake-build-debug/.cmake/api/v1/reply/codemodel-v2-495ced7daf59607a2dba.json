@@ -1,0 +1,435 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "glfw",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-glfw-Debug-fe178b966dd13bf48094.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "C:/Users/czp/Desktop/OpenGL_Git/OpenGL/3rd/glfw-3.3.8/glfw-3.3.8",
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"build" : "glfw/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-glfw.src-Debug-ba1ec6a2c16246c9463d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/Users/czp/Desktop/OpenGL_Git/OpenGL/3rd/glfw-3.3.8/glfw-3.3.8/src",
+					"targetIndexes" : 
+					[
+						8,
+						30
+					]
+				},
+				{
+					"build" : "glfw/examples",
+					"jsonFile" : "directory-glfw.examples-Debug-0eb5c81c0c5c625d67ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/Users/czp/Desktop/OpenGL_Git/OpenGL/3rd/glfw-3.3.8/glfw-3.3.8/examples",
+					"targetIndexes" : 
+					[
+						1,
+						7,
+						10,
+						17,
+						19,
+						21,
+						22,
+						23,
+						31
+					]
+				},
+				{
+					"build" : "glfw/tests",
+					"jsonFile" : "directory-glfw.tests-Debug-2f0848a54bc75d9e9390.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "C:/Users/czp/Desktop/OpenGL_Git/OpenGL/3rd/glfw-3.3.8/glfw-3.3.8/tests",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						9,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						18,
+						20,
+						24,
+						25,
+						26,
+						27,
+						28,
+						32
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LearnOpenGL",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LearnOpenGL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LearnOpenGL-Debug-12acf8161710a840210a.json",
+					"name" : "LearnOpenGL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "boing::@91b33b97678d17ce013a",
+					"jsonFile" : "target-boing-Debug-dabb217d5c2be5fb3d6a.json",
+					"name" : "boing",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "clipboard::@b9c82d214eb3193853de",
+					"jsonFile" : "target-clipboard-Debug-29b9c5c126bddf7e844e.json",
+					"name" : "clipboard",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "cursor::@b9c82d214eb3193853de",
+					"jsonFile" : "target-cursor-Debug-a9a6bfeb1ac1b591c8d0.json",
+					"name" : "cursor",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "empty::@b9c82d214eb3193853de",
+					"jsonFile" : "target-empty-Debug-4f7b9c36319163ee49e4.json",
+					"name" : "empty",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "events::@b9c82d214eb3193853de",
+					"jsonFile" : "target-events-Debug-de09e085a845ac8f6c5e.json",
+					"name" : "events",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "gamma::@b9c82d214eb3193853de",
+					"jsonFile" : "target-gamma-Debug-b77b6e9b409673310d69.json",
+					"name" : "gamma",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gears::@91b33b97678d17ce013a",
+					"jsonFile" : "target-gears-Debug-dac5d96cb48d4762eed1.json",
+					"name" : "gears",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glfw::@12507ebf64a5258d241e",
+					"jsonFile" : "target-glfw-Debug-ca1e7e1696725ea2c8e9.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "glfwinfo::@b9c82d214eb3193853de",
+					"jsonFile" : "target-glfwinfo-Debug-9366ceb0fa136077c1e2.json",
+					"name" : "glfwinfo",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "heightmap::@91b33b97678d17ce013a",
+					"jsonFile" : "target-heightmap-Debug-6dfada5879b40966eaa6.json",
+					"name" : "heightmap",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "icon::@b9c82d214eb3193853de",
+					"jsonFile" : "target-icon-Debug-599c7c522d1b7f959b96.json",
+					"name" : "icon",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "iconify::@b9c82d214eb3193853de",
+					"jsonFile" : "target-iconify-Debug-b091629b53ba41700310.json",
+					"name" : "iconify",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "inputlag::@b9c82d214eb3193853de",
+					"jsonFile" : "target-inputlag-Debug-34bb24d75b3476f5dec6.json",
+					"name" : "inputlag",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "joysticks::@b9c82d214eb3193853de",
+					"jsonFile" : "target-joysticks-Debug-2f36e6cac70983fb1f82.json",
+					"name" : "joysticks",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "monitors::@b9c82d214eb3193853de",
+					"jsonFile" : "target-monitors-Debug-f037c877950e163978f9.json",
+					"name" : "monitors",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "msaa::@b9c82d214eb3193853de",
+					"jsonFile" : "target-msaa-Debug-d490f7a30531dbba6232.json",
+					"name" : "msaa",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "offscreen::@91b33b97678d17ce013a",
+					"jsonFile" : "target-offscreen-Debug-ddb4b38970942855103d.json",
+					"name" : "offscreen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "opacity::@b9c82d214eb3193853de",
+					"jsonFile" : "target-opacity-Debug-cf0bcb3b41aaf32bc826.json",
+					"name" : "opacity",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "particles::@91b33b97678d17ce013a",
+					"jsonFile" : "target-particles-Debug-2afd63974d461fadbfd8.json",
+					"name" : "particles",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "reopen::@b9c82d214eb3193853de",
+					"jsonFile" : "target-reopen-Debug-f5628748659ef86184e6.json",
+					"name" : "reopen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "sharing::@91b33b97678d17ce013a",
+					"jsonFile" : "target-sharing-Debug-395f5596e46ceab1aa4f.json",
+					"name" : "sharing",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "simple::@91b33b97678d17ce013a",
+					"jsonFile" : "target-simple-Debug-f1daa7479d97f8a65790.json",
+					"name" : "simple",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "splitview::@91b33b97678d17ce013a",
+					"jsonFile" : "target-splitview-Debug-0c96f3ad51988dfd7d05.json",
+					"name" : "splitview",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "tearing::@b9c82d214eb3193853de",
+					"jsonFile" : "target-tearing-Debug-952eb694b0662cc5fdd1.json",
+					"name" : "tearing",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "threads::@b9c82d214eb3193853de",
+					"jsonFile" : "target-threads-Debug-588c6547aa2cff6a075c.json",
+					"name" : "threads",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "timeout::@b9c82d214eb3193853de",
+					"jsonFile" : "target-timeout-Debug-00b754e8f2e44e6d1ce6.json",
+					"name" : "timeout",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "title::@b9c82d214eb3193853de",
+					"jsonFile" : "target-title-Debug-372ee92bf0295b367b38.json",
+					"name" : "title",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "triangle-vulkan::@b9c82d214eb3193853de",
+					"jsonFile" : "target-triangle-vulkan-Debug-c9cd246e9721774ce678.json",
+					"name" : "triangle-vulkan",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "uninstall::@eb154563b92743f6cbb3",
+					"jsonFile" : "target-uninstall-Debug-1b865c42551049775ea8.json",
+					"name" : "uninstall",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "update_mappings::@12507ebf64a5258d241e",
+					"jsonFile" : "target-update_mappings-Debug-eb3ddc495d46560ec313.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "wave::@91b33b97678d17ce013a",
+					"jsonFile" : "target-wave-Debug-92459f4542c12278c379.json",
+					"name" : "wave",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "windows::@b9c82d214eb3193853de",
+					"jsonFile" : "target-windows-Debug-40fd12f2faea0c499265.json",
+					"name" : "windows",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/czp/Desktop/OpenGL_Git/OpenGL/LearnOpenGL/cmake-build-debug",
+		"source" : "C:/Users/czp/Desktop/OpenGL_Git/OpenGL/LearnOpenGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,4 +1,5 @@
 #include <dinput.h>
+#include <math.h>
 #include <iostream>
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
@@ -115,7 +116,7 @@ int main()
 		ourShader.use();
 
 		float green = sin(f) / 2.0f + 0.5f;
-		// float green = sin(glfwGetTime()) / 2.0f + 0.5f;
+//		 float green = sin(glfwGetTime()) / 2.0f + 0.5f;
 		glUniform4f(glGetUniformLocation(ourShader.GetProgram(), "testColor"), 1.0, green, 1.0, 1.0);
 		
 		glBindVertexArray(VAO);

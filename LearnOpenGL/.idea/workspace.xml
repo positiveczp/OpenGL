@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="LearnOpenGL" targetName="tearing" />
+      <config projectName="LearnOpenGL" targetName="icon" />
+      <config projectName="LearnOpenGL" targetName="title" />
+      <config projectName="LearnOpenGL" targetName="glfw" />
+      <config projectName="LearnOpenGL" targetName="cursor" />
+      <config projectName="LearnOpenGL" targetName="clipboard" />
+      <config projectName="LearnOpenGL" targetName="empty" />
+      <config projectName="LearnOpenGL" targetName="wave" />
+      <config projectName="LearnOpenGL" targetName="update_mappings" />
+      <config projectName="LearnOpenGL" targetName="triangle-vulkan" />
+      <config projectName="LearnOpenGL" targetName="opacity" />
+      <config projectName="LearnOpenGL" targetName="windows" />
+      <config projectName="LearnOpenGL" targetName="msaa" />
+      <config projectName="LearnOpenGL" targetName="reopen" />
+      <config projectName="LearnOpenGL" targetName="gamma" />
+      <config projectName="LearnOpenGL" targetName="monitors" />
+      <config projectName="LearnOpenGL" targetName="threads" />
+      <config projectName="LearnOpenGL" targetName="uninstall" />
+      <config projectName="LearnOpenGL" targetName="glfwinfo" />
+      <config projectName="LearnOpenGL" targetName="joysticks" />
+      <config projectName="LearnOpenGL" targetName="timeout" />
+      <config projectName="LearnOpenGL" targetName="sharing" />
+      <config projectName="LearnOpenGL" targetName="boing" />
+      <config projectName="LearnOpenGL" targetName="offscreen" />
+      <config projectName="LearnOpenGL" targetName="splitview" />
+      <config projectName="LearnOpenGL" targetName="iconify" />
+      <config projectName="LearnOpenGL" targetName="simple" />
+      <config projectName="LearnOpenGL" targetName="inputlag" />
+      <config projectName="LearnOpenGL" targetName="heightmap" />
+      <config projectName="LearnOpenGL" targetName="LearnOpenGL" />
+      <config projectName="LearnOpenGL" targetName="events" />
+      <config projectName="LearnOpenGL" targetName="particles" />
+      <config projectName="LearnOpenGL" targetName="gears" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44730774-43cd-4035-8ee9-8f2139f7b21d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/ALL_BUILD.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ALL_BUILD.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/2464835c89dd7d94eecfe08cb2c18f07/INSTALL_force.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/2464835c89dd7d94eecfe08cb2c18f07/update_mappings.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/CompilerIdC.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/CompilerIdC.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CMakeCCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.tlog/CompilerIdC.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdC/Debug/CompilerIdC.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/CompilerIdCXX.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/CompilerIdCXX.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CMakeCXXCompilerId.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CompilerIdCXX.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/CompilerIdCXX/Debug/CompilerIdCXX.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/VCTargetsPath.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/VCTargetsPath.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/x64/Debug/VCTargetsPath.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/3.24.0/x64/Debug/VCTargetsPath.tlog/VCTargetsPath.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/4425149a4fbc23b474af990699ec2f45/INSTALL_force.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/4425149a4fbc23b474af990699ec2f45/generate.stamp.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/5fc4ca8fb173daf339547db5a9ada9b7/INSTALL_force.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/b619ba072ad85453c073e5bdbfdadb0c/INSTALL_force.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/b619ba072ad85453c073e5bdbfdadb0c/uninstall.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/f5ba8d60a47d363e7baa2b18017a51f3/INSTALL_force.rule" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/generate.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/generate.stamp.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/generate.stamp.list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Debug/LearnOpenGL.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Debug/LearnOpenGL.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/INSTALL.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/INSTALL.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/CustomBuild.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/CustomBuild.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/CustomBuild.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/LearnOpenGL.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/LearnOpenGL.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/glad.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/imgui.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/imgui_demo.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/imgui_draw.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/imgui_impl_glfw.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/imgui_impl_opengl3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/imgui_tables.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/imgui_widgets.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.dir/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/LearnOpenGL.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ZERO_CHECK.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ZERO_CHECK.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/ALL_BUILD.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/ALL_BUILD.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets-debug.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets-minsizerel.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets-release.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets-relwithdebinfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/CMakeFiles/Export/f367bd07922f2ecfc14cf5547f1f7c4e/glfw3Targets.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/CMakeFiles/generate.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/CMakeFiles/generate.stamp.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/GLFW.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/INSTALL.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/INSTALL.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/cmake_uninstall.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/CMakeFiles/generate.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/CMakeFiles/generate.stamp.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/INSTALL.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/INSTALL.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/boing.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/boing.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/gears.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/gears.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/heightmap.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/heightmap.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/offscreen.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/offscreen.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/particles.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/particles.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/sharing.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/sharing.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/simple.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/simple.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/splitview.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/splitview.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/wave.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/examples/wave.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/CMakeFiles/generate.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/CMakeFiles/generate.stamp.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/Debug/glfw3.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/Debug/glfw3.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/INSTALL.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/INSTALL.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/context.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/egl_context.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/CustomBuild.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/CustomBuild.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/CustomBuild.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/Lib-link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/Lib-link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/Lib.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw.tlog/glfw.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/glfw3.lib.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/init.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/input.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/monitor.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/osmesa_context.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/vulkan.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/wgl_context.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/win32_init.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/win32_joystick.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/win32_monitor.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/win32_thread.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/win32_time.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/win32_window.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.dir/Debug/window.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw3.pc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw3Config.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw3ConfigVersion.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/glfw_config.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/update_mappings.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/src/update_mappings.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/CMakeFiles/generate.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/CMakeFiles/generate.stamp.depend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/INSTALL.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/INSTALL.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/clipboard.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/clipboard.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/cursor.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/cursor.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/empty.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/empty.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/events.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/events.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/gamma.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/gamma.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/glfwinfo.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/glfwinfo.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/icon.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/icon.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/iconify.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/iconify.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/inputlag.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/inputlag.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/joysticks.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/joysticks.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/monitors.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/monitors.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/msaa.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/msaa.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/opacity.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/opacity.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/reopen.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/reopen.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/tearing.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/tearing.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/threads.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/threads.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/timeout.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/timeout.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/title.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/title.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/triangle-vulkan.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/triangle-vulkan.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/windows.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/tests/windows.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/uninstall.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/glfw/uninstall.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/imgui.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/x64/Debug/ZERO_CHECK/ZERO_CHECK.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/CustomBuild.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/CustomBuild.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/CustomBuild.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/ZERO_CHECK.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VqQ1XnnI9WKQ3Kh3eCHsS6a3MT" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/czp/Desktop/OpenGL_Git/OpenGL/LearnOpenGL/CMakeLists.txt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.LearnOpenGL">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnOpenGL" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="LearnOpenGL" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="LearnOpenGL">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="boing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="boing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clipboard" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="clipboard" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="clipboard">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cursor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="cursor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="cursor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="empty" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="empty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="empty">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="events" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="events" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="events">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gamma" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="gamma" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="gamma">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gears" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="gears" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="gears">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfwinfo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="glfwinfo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="glfwinfo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heightmap" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="heightmap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="heightmap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="icon" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="icon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="icon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iconify" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="iconify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="iconify">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inputlag" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="inputlag" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="inputlag">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="joysticks" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="joysticks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="joysticks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="monitors" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="monitors" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="monitors">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="msaa" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="msaa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="msaa">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="offscreen" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="offscreen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="offscreen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="opacity" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="opacity" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="opacity">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="particles" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="particles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="particles">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reopen" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="reopen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="reopen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sharing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="sharing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="sharing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simple" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="simple" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="simple">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="splitview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="splitview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="splitview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tearing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="tearing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="tearing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threads" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="threads" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="threads">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timeout" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="timeout" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="timeout">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="title" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="title" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="title">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangle-vulkan" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="triangle-vulkan" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="triangle-vulkan">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="update_mappings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="update_mappings" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wave" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="wave" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="wave">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="windows" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnOpenGL" TARGET_NAME="windows" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearnOpenGL" RUN_TARGET_NAME="windows">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.LearnOpenGL" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.boing" />
+      <item itemvalue="CMake Application.gears" />
+      <item itemvalue="CMake Application.heightmap" />
+      <item itemvalue="CMake Application.offscreen" />
+      <item itemvalue="CMake Application.particles" />
+      <item itemvalue="CMake Application.sharing" />
+      <item itemvalue="CMake Application.simple" />
+      <item itemvalue="CMake Application.splitview" />
+      <item itemvalue="CMake Application.wave" />
+      <item itemvalue="CMake Application.glfw" />
+      <item itemvalue="CMake Application.update_mappings" />
+      <item itemvalue="CMake Application.clipboard" />
+      <item itemvalue="CMake Application.cursor" />
+      <item itemvalue="CMake Application.empty" />
+      <item itemvalue="CMake Application.events" />
+      <item itemvalue="CMake Application.gamma" />
+      <item itemvalue="CMake Application.glfwinfo" />
+      <item itemvalue="CMake Application.icon" />
+      <item itemvalue="CMake Application.iconify" />
+      <item itemvalue="CMake Application.inputlag" />
+      <item itemvalue="CMake Application.joysticks" />
+      <item itemvalue="CMake Application.monitors" />
+      <item itemvalue="CMake Application.msaa" />
+      <item itemvalue="CMake Application.opacity" />
+      <item itemvalue="CMake Application.reopen" />
+      <item itemvalue="CMake Application.tearing" />
+      <item itemvalue="CMake Application.threads" />
+      <item itemvalue="CMake Application.timeout" />
+      <item itemvalue="CMake Application.title" />
+      <item itemvalue="CMake Application.triangle-vulkan" />
+      <item itemvalue="CMake Application.windows" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44730774-43cd-4035-8ee9-8f2139f7b21d" name="Changes" comment="" />
+      <created>1695560917262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695560917262</updated>
+      <workItem from="1695560918196" duration="58000" />
+      <workItem from="1695560985353" duration="2245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
