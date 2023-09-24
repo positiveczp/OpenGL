@@ -57,7 +57,7 @@ int main()
 	glViewport(0,0,800,600);
 	glfwSetFramebufferSizeCallback(windows, framebuffer_size_callback);
 
-	Shader ourShader("C:/Users/czp/Desktop/OpenGL/shader/test.vs", "C:/Users/czp/Desktop/OpenGL/shader/test.fs");
+	Shader ourShader("../shader/test.vs", "../shader/test.fs");
 
 	float vertices[] = {
 		0.5f, 0.5f, 0.0f, 1.0, 0.0, 0.0,  // 右上角
